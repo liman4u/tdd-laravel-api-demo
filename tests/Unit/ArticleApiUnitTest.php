@@ -4,7 +4,7 @@ namespace Tests\Unit;
 use Tests\TestCase;
 class ArticleApiUnitTest extends TestCase
 {
-  public function it_can_create_an_article()
+  public function test_it_can_create_an_article()
   {
       $data = [
         'title' => $this->faker->sentence,
