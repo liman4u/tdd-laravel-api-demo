@@ -1,6 +1,6 @@
 # TDD Laravel Api Demo
 
-A Simple TDD using Laravel API
+A Simple TDD Demo with Laravel API
 
 # To run locally
 
